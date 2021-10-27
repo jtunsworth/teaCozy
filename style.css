@@ -139,3 +139,11 @@ h2, h3, h4 {
     justify-content: center;
 }
 
+footer h2, h5{
+    text-align: center;
+}
+
+#copyright {
+    text-align: left;
+
+}
